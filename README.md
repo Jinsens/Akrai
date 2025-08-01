@@ -24,4 +24,5 @@ Akrai 霁色
 
 # 使用说明
 Magisk/Kernel SU刷入模块即可
-禁止屏蔽或卸载Joyoes或电量和性能
+
+# 禁止屏蔽或卸载Joyoes或电量和性能
